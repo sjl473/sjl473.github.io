@@ -1,0 +1,2 @@
+Plain text block.
+No highlighting needed here.

@@ -1,0 +1,234 @@
+{
+  "navigation": [
+    {
+      "title": "Example has no special meanings",
+      "type": "folder",
+      "path": "",
+      "hash": "",
+      "hasCustomTsx": false,
+      "mdPath": "",
+      "tsxPath": "",
+      "codeFiles": [],
+      "images": [],
+      "children": [
+        {
+          "title": "consectetur adipisicing elit",
+          "type": "page",
+          "path": "/1a5a26f3",
+          "hash": "1a5a26f3",
+          "hasCustomTsx": false,
+          "mdPath": "dev/_01_Example has no special meanings/_01_consectetur adipisicing elit.md",
+          "tsxPath": "app/out/1a5a26f3/page.tsx",
+          "codeFiles": [
+            {
+              "originalPath": "",
+              "hashPath": "vmdcode/46d954ac791b0300addc4525fb9c42dd1bd192de16edf4f6e250d5704d594d7e.txt"
+            },
+            {
+              "originalPath": "",
+              "hashPath": "vmdcode/6f7224d7df46634a28be6ef269a0fe353959be1ce2434769bc166140963971b7.txt"
+            },
+            {
+              "originalPath": "",
+              "hashPath": "vmdcode/c476553f6575442139bcd62826cb25691c1ec45ccec76eddcca2482a2159100a.txt"
+            },
+            {
+              "originalPath": "",
+              "hashPath": "vmdcode/00d3ec4948987bebec06f006c2e62f6dc97066c91d9c3d30d90b3bfd57f30aef.txt"
+            }
+          ],
+          "images": [
+            {
+              "originalName": "pasted file.png",
+              "hashPath": "vmdimage/501f8f9621cb9b7bd08e0e31197fad9126adb7cb72a69a59be0447accfc5299e.png"
+            },
+            {
+              "originalName": "pasted file.png",
+              "hashPath": "vmdimage/501f8f9621cb9b7bd08e0e31197fad9126adb7cb72a69a59be0447accfc5299e.png"
+            },
+            {
+              "originalName": "pasted file.png",
+              "hashPath": "vmdimage/501f8f9621cb9b7bd08e0e31197fad9126adb7cb72a69a59be0447accfc5299e.png"
+            },
+            {
+              "originalName": "pasted file.png",
+              "hashPath": "vmdimage/501f8f9621cb9b7bd08e0e31197fad9126adb7cb72a69a59be0447accfc5299e.png"
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "sit aspernatur aut",
+          "type": "page",
+          "path": "/c2f57e78",
+          "hash": "c2f57e78",
+          "hasCustomTsx": false,
+          "mdPath": "dev/_01_Example has no special meanings/_02_sit aspernatur aut.md",
+          "tsxPath": "app/out/c2f57e78/page.tsx",
+          "codeFiles": [
+            {
+              "originalPath": "",
+              "hashPath": "vmdcode/9470fc076224448837c848dba8ef9e15b13bf7d57e8545155d95916d2c7106e0.txt"
+            },
+            {
+              "originalPath": "",
+              "hashPath": "vmdcode/eac70eaa9745111aefa5755eee8a77f008bd58ce1a23e87719d40d5a812c4af0.txt"
+            }
+          ],
+          "images": [
+            {
+              "originalName": "pasted file.png",
+              "hashPath": "vmdimage/501f8f9621cb9b7bd08e0e31197fad9126adb7cb72a69a59be0447accfc5299e.png"
+            },
+            {
+              "originalName": "pasted file.png",
+              "hashPath": "vmdimage/501f8f9621cb9b7bd08e0e31197fad9126adb7cb72a69a59be0447accfc5299e.png"
+            },
+            {
+              "originalName": "pasted file.png",
+              "hashPath": "vmdimage/501f8f9621cb9b7bd08e0e31197fad9126adb7cb72a69a59be0447accfc5299e.png"
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "lomniga ucate",
+          "type": "page",
+          "path": "/c4c72a0d",
+          "hash": "c4c72a0d",
+          "hasCustomTsx": false,
+          "mdPath": "dev/_01_Example has no special meanings/_03_lomniga ucate.md",
+          "tsxPath": "app/out/c4c72a0d/page.tsx",
+          "codeFiles": [
+            {
+              "originalPath": "",
+              "hashPath": "vmdcode/41a27194552fb036e2701a32ced8bda3e55b1b051096008568c5ef2982185f01.txt"
+            },
+            {
+              "originalPath": "",
+              "hashPath": "vmdcode/e1e2d622f963272bb41da025ec3249c2e03adfd954834c89aee8cd0a66c8ee22.txt"
+            }
+          ],
+          "images": [
+            {
+              "originalName": "pasted file.png",
+              "hashPath": "vmdimage/501f8f9621cb9b7bd08e0e31197fad9126adb7cb72a69a59be0447accfc5299e.png"
+            },
+            {
+              "originalName": "pasted file.png",
+              "hashPath": "vmdimage/501f8f9621cb9b7bd08e0e31197fad9126adb7cb72a69a59be0447accfc5299e.png"
+            },
+            {
+              "originalName": "pasted file.png",
+              "hashPath": "vmdimage/501f8f9621cb9b7bd08e0e31197fad9126adb7cb72a69a59be0447accfc5299e.png"
+            },
+            {
+              "originalName": "pasted file.png",
+              "hashPath": "vmdimage/501f8f9621cb9b7bd08e0e31197fad9126adb7cb72a69a59be0447accfc5299e.png"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Yet another example has still no special meanings",
+      "type": "folder",
+      "path": "",
+      "hash": "",
+      "hasCustomTsx": false,
+      "mdPath": "",
+      "tsxPath": "",
+      "codeFiles": [],
+      "images": [],
+      "children": [
+        {
+          "title": "A nested folder",
+          "type": "folder",
+          "path": "",
+          "hash": "",
+          "hasCustomTsx": false,
+          "mdPath": "",
+          "tsxPath": "",
+          "codeFiles": [],
+          "images": [],
+          "children": [
+            {
+              "title": "A nested file",
+              "type": "page",
+              "path": "/72cb2b15",
+              "hash": "72cb2b15",
+              "hasCustomTsx": false,
+              "mdPath": "dev/_02_Yet another example has still no special meanings/_01_A nested folder/_01_A nested file.md",
+              "tsxPath": "app/out/72cb2b15/page.tsx",
+              "codeFiles": [],
+              "images": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "yu kitaya",
+          "type": "page",
+          "path": "/6d194723",
+          "hash": "6d194723",
+          "hasCustomTsx": false,
+          "mdPath": "dev/_02_Yet another example has still no special meanings/_01_yu kitaya.md",
+          "tsxPath": "app/out/6d194723/page.tsx",
+          "codeFiles": [
+            {
+              "originalPath": "",
+              "hashPath": "vmdcode/5694d08a2e53ffcae0c3103e5ad6f6076abd960eb1f8a56577040bc1028f702b.txt"
+            },
+            {
+              "originalPath": "",
+              "hashPath": "vmdcode/54b07b2bec7f76c1ae7197cb7ae44163f937bea46ffee42459a2968deb72c440.txt"
+            }
+          ],
+          "images": [
+            {
+              "originalName": "pasted file.png",
+              "hashPath": "vmdimage/501f8f9621cb9b7bd08e0e31197fad9126adb7cb72a69a59be0447accfc5299e.png"
+            },
+            {
+              "originalName": "pasted file.png",
+              "hashPath": "vmdimage/501f8f9621cb9b7bd08e0e31197fad9126adb7cb72a69a59be0447accfc5299e.png"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Example for Has Custum TSX",
+      "type": "folder",
+      "path": "",
+      "hash": "",
+      "hasCustomTsx": false,
+      "mdPath": "",
+      "tsxPath": "",
+      "codeFiles": [],
+      "images": [],
+      "children": [
+        {
+          "title": "yet_user_need_self_impl_tsx",
+          "type": "page",
+          "path": "/d13f2f24",
+          "hash": "d13f2f24",
+          "hasCustomTsx": true,
+          "mdPath": "dev/_03_Example for Has Custum TSX/_01_yet_user_need_self_impl_tsx.md",
+          "tsxPath": "app/out/d13f2f24/page.tsx",
+          "codeFiles": [],
+          "images": [],
+          "children": []
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "originalPath": "dev/assets/images/pasted file.png",
+      "hashPath": "vmdimage/501f8f9621cb9b7bd08e0e31197fad9126adb7cb72a69a59be0447accfc5299e.png"
+    }
+  ]
+}
