@@ -1,5 +1,0 @@
-function generateText() {
-  const content = "Lorem ipsum dolor sit amet";
-  console.log(content);
-  return content.split(" ").length;
-}
