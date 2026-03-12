@@ -1,0 +1,1 @@
+) are not permitted for the same reason as code blocks. Inline mathematical expressions 

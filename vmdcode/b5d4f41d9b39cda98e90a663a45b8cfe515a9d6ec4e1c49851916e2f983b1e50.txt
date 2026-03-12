@@ -1,0 +1,12 @@
+<info>
+This is an informational message that can contain **bold**, *italic*, and other inline formatting.
+Can also include multiple lines of content.
+</info>
+
+<warning>
+This is a warning message alerting readers to potential issues.
+</warning>
+
+<success>
+This is a success message indicating recommended approaches or completed states.
+</success>

@@ -1,0 +1,7 @@
+<rt>
+
+![Correct image description](../assets/images/correct.png)
+
+![Another image](../assets/images/another.png)
+
+</rt>

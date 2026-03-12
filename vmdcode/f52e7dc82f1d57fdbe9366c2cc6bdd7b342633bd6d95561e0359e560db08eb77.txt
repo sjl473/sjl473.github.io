@@ -1,0 +1,4 @@
+ERROR [VMD-XXXX] Error description
+  File: dev/_01_Example/_01_file.md
+  Line: 25
+  Details: Additional context about the error

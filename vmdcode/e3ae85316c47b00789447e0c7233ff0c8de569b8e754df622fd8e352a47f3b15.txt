@@ -1,0 +1,18 @@
+以下是 VMD 标签的语法示例：
+
+<info>
+这是信息提示框的内容。
+</info>
+
+<warning>
+这是警告提示框的内容。
+</warning>
+
+<post>
+<lft>
+左侧内容
+</lft>
+<rt>
+![图片](image.png)
+</rt>
+</post>

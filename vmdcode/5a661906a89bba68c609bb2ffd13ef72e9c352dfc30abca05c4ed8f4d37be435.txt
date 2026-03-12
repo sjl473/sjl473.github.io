@@ -1,0 +1,8 @@
+# Install dependencies
+pnpm install
+
+# Build the project
+pnpm build
+
+# Development mode
+pnpm dev

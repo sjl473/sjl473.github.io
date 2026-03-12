@@ -1,0 +1,14 @@
+<post>
+<lft>
+
+左侧内容，支持标准 Markdown 语法。
+可以是段落、列表、代码等。
+
+</lft>
+<rt>
+
+![图1](../assets/images/a.png)
+![图2](../assets/images/b.png)
+
+</rt>
+</post>

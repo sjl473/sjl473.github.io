@@ -1,0 +1,3 @@
+\* Literal asterisk \*
+\# Literal hash \#
+\[ Literal square bracket \]

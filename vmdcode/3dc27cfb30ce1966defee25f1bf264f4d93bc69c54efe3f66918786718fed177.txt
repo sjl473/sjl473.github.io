@@ -1,0 +1,14 @@
+<post>
+<lft>
+
+Left-side content supporting standard Markdown syntax.
+Can be paragraphs, lists, code, etc.
+
+</lft>
+<rt>
+
+![Image 1](../assets/images/a.png)
+![Image 2](../assets/images/b.png)
+
+</rt>
+</post>
