@@ -1,0 +1,1 @@
+This is a paragraph containing a <smallimg>![icon](../../assets/images/icon.png)</smallimg> small image in the text.

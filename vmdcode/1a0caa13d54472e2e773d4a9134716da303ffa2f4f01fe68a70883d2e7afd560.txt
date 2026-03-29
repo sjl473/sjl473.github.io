@@ -1,0 +1,1 @@
+这是一段包含 <smallimg>![图标](../../assets/images/icon.png)</smallimg> 小图像的文本。

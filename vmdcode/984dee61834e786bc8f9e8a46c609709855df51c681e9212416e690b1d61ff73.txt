@@ -1,0 +1,7 @@
+<rt>
+
+![正确的图像描述](../../assets/images/correct.png)
+
+![另一个图像](../../assets/images/another.png)
+
+</rt>

@@ -1,0 +1,5 @@
+[外部链接](https://example.com)
+[站内链接](../_01_其他章节/_01_文档.md)
+[页内锚点](#章节标题)
+
+![图像描述](../../assets/images/screenshot.png)
