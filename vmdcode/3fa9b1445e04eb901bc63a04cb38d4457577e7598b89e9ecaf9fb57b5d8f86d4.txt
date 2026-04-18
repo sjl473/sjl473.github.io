@@ -1,0 +1,6 @@
+行内代码: `const x = 1`
+
+```javascript
+function example() {
+  return "语法高亮";
+}
