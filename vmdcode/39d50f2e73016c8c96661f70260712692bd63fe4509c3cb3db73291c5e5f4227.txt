@@ -10,9 +10,9 @@ export default function CustomPage() {
         <GlobalTheme theme={theme}>
             <div className="v0plex-content">
                 <div className="page-typography-content">
-                    {/* 在这里编写自定义内容 */}
-                    <h1>自定义页面标题</h1>
-                    <p>这是使用 React 组件渲染的内容。</p>
+                    {/* Write custom content here*/}
+                    <h1>Custom Page Title</h1>
+                    <p>This is content rendered using a React component.</p>
                 </div>
             </div>
         </GlobalTheme>
