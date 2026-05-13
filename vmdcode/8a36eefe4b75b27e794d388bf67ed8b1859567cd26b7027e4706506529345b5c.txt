@@ -1,0 +1,1 @@
+list comprehension [x for x in xs]

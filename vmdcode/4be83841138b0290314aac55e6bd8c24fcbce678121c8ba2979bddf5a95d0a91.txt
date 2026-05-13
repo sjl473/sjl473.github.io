@@ -1,0 +1,1 @@
+sorted(xs, key=lambda x: -x)

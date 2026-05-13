@@ -1,0 +1,1 @@
+class Model(nn.Module): pass
