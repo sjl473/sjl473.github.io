@@ -1,7 +1,0 @@
-const nextConfig = {
-    output: 'export',
-    distDir: 'gh-page-output',
-    basePath: '/my-docs',
-    trailingSlash: true,
-    // ...其他配置
-}

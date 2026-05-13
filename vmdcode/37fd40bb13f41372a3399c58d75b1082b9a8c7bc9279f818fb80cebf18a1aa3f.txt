@@ -1,0 +1,16 @@
+from qiskit import QuantumCircuit, execute, Aer
+
+# Create a quantum circuit
+def create_bell_state():
+    """Create a Bell state."""
+    qc = QuantumCircuit(2, 2)
+    qc.h(0)
+    qc.cx(0, 1)
+    qc.measure([0, 1], [0, 1])
+    return qc
+
+# Execute
+simulator = Aer.get_backend('qasm_simulator')
+job = execute(create_bell_state(), simulator)
+result = job.result()
+print(result.get_counts())

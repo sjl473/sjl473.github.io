@@ -1,0 +1,10 @@
+func MakeNoise(animal string) string {
+    switch animal {
+    case "cat":
+        return "blep"
+    case "dog":
+        return "mlem"
+    default:
+        return "blorp"
+    }
+}

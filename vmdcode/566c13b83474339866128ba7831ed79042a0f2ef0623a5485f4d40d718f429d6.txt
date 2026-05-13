@@ -1,0 +1,2 @@
+def calculate_rizz(looks, money, status):
+    return looks * 0.4 + money* 0.3 + status * 0.3

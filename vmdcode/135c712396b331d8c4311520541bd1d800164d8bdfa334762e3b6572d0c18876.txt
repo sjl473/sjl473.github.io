@@ -1,0 +1,6 @@
+interface Week {
+    days: string[];
+    currentDay: number;
+    
+    getToday(): string;
+}

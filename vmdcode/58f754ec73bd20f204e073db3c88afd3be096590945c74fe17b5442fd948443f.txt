@@ -1,0 +1,14 @@
+import numpy as np
+
+def fft(x):
+    """Fast Fourier Transform implementation."""
+    n = len(x)
+    if n <= 1:
+        return x
+    
+    even = fft(x[0::2])
+    odd = fft(x[1::2])
+    
+    T = [np.exp(-2j * np.pi* k / n) * odd[k] for k in range(n // 2)]
+    return [even[k] + T[k] for k in range(n // 2)] + \
+           [even[k] - T[k] for k in range(n // 2)]

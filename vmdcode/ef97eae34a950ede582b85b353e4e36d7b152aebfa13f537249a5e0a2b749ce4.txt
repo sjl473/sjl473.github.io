@@ -1,6 +1,0 @@
-function greet(name) {
-    console.log(`Hello, ${name}!`);
-    return `Greeting sent to ${name}`;
-}
-
-greet('v0plex');

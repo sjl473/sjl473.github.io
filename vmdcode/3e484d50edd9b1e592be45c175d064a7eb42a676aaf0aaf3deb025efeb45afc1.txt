@@ -1,6 +1,0 @@
-Inline code: `const x = 1`
-
-```javascript
-function example() {
-  return "syntax highlighting";
-}

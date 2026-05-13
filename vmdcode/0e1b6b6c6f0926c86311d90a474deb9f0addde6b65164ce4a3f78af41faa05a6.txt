@@ -1,0 +1,6 @@
+func evaluateUsefulness(thing string) string {
+    if thing == "useful" {
+        return "indeed useful"
+    }
+    return "as titled"
+}

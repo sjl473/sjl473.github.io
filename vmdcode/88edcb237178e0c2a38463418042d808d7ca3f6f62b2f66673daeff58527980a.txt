@@ -1,4 +1,0 @@
-const config = {
-    name: 'v0plex',
-    version: '1.0.0'
-};

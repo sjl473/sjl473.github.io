@@ -1,0 +1,8 @@
+public class SleepSound {
+    public string Sound { get; set; }
+    public int Volume { get; set; }
+    
+    public void Emit() {
+        Console.WriteLine($"{Sound} at {Volume}dB");
+    }
+}

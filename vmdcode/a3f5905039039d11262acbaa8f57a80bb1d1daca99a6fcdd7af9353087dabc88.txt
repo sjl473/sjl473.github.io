@@ -1,0 +1,3 @@
+function elapse(time) {
+    return time + 1;
+}

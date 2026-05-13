@@ -1,0 +1,4 @@
+def calculate_area(radius):
+    """Calculate circle area."""
+    import math
+    return math.pi * radius ** 2

@@ -1,2 +1,0 @@
-git clone https://github.com/your-org/v0plex.git
-cd v0plex

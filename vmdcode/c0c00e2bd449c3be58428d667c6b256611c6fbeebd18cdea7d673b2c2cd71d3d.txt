@@ -1,0 +1,18 @@
+interface HeatEquation {
+    alpha: number;
+    initialCondition: number[][];
+    
+    solve(timestep: number): number[][];
+}
+
+class FiniteDifferenceSolver implements HeatEquation {
+    constructor(
+        public alpha: number,
+        public initialCondition: number[][]
+    ) {}
+    
+    solve(timestep: number): number[][] {
+        // Implementation
+        return this.initialCondition;
+    }
+}

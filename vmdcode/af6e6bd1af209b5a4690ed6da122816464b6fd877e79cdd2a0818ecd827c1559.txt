@@ -1,0 +1,4 @@
+def speechless(text):
+    if len(text) == 0:
+        return "truly speechless"
+    return text

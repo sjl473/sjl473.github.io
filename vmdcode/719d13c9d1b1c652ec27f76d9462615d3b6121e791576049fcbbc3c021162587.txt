@@ -1,0 +1,3 @@
+function snickerSnack(vorpal) {
+  return vorpal.gyre() + vorpal.gimble();
+}

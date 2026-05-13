@@ -1,0 +1,8 @@
+public class Blorbo {
+    private boolean isChosenOne;
+    private String tragicBackstory;
+    
+    public void goOnAdventure() {
+        // TODO: implement generic hero's journey
+    }
+}

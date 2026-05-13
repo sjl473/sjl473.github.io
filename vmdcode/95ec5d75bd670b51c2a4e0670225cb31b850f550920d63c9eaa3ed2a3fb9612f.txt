@@ -1,9 +1,0 @@
-
-## Mathematical Expressions
-
-v0plex supports LaTeX format mathematical expressions, rendered using MathJax.
-
-Inline formulas are wrapped in single dollar signs:
-
-```markdown
-The mass-energy equation $E = mc^2$ was proposed by Einstein.

@@ -1,5 +1,0 @@
-[External link](https://example.com)
-[Internal link](../_01_Other Chapter/_01_Document.md)
-[In-page anchor](#Section Title)
-
-![Image description](../../assets/images/screenshot.png)

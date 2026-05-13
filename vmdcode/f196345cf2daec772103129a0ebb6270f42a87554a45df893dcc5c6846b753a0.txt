@@ -1,0 +1,4 @@
+def analyze(problem):
+    if problem == "big problem":
+        return "big solution"
+    return "not a problem"

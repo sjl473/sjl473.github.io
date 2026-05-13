@@ -1,0 +1,3 @@
+fn listen_to_words(person: &str, words: &str) -> String {
+    format!("{} listened to {}, like listening to {}", person, words, words)
+}
