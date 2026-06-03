@@ -1,3 +1,0 @@
-fn gloop_gleep(glorp: i32) -> String {
-    format!("Gloop {} gleep", glorp)
-}

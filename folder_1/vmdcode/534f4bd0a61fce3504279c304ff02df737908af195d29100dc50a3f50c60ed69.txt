@@ -1,1 +1,0 @@
-list(filter(None, seq))

@@ -1,4 +1,0 @@
-interface Wumbo {
-  size: 'mini' | 'medium' | 'wumbo' | 'super';
-  wumboFactor: number;
-}
